@@ -7,7 +7,6 @@ A tiny npm module example.
 
 ## Install
 
-```
 $ npm install @fuzzysaj/tiny
 
 ## Usage
