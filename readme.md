@@ -9,3 +9,12 @@ A tiny npm module example.
 
 ```
 $ npm install @fuzzysaj/tiny
+
+## Usage
+
+```js
+const tiny = require("@fuzzysaj/tiny");
+
+tiny("Remove my spaces please.");
+//=> "Removemyspacesplease."
+```
